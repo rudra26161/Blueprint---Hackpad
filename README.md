@@ -8,7 +8,7 @@ This README documents the design, schematic, PCB, case, and bill of materials (B
 ## 📸 Screenshots
 
 ### Overall Hackpad
-![Hackpad Screenshot](images/hackpad_overview.png)
+![Hackpad Screenshot]([images/hackpad_overview.png](https://github.com/rudra26161/Blueprint---Hackpad/blob/main/Screenshot%202025-12-11%20161556.png))
 
 ### Schematic
 ![Schematic Screenshot](images/hackpad_schematic.png)
