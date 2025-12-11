@@ -17,7 +17,7 @@ This README documents the design, schematic, PCB, case, and bill of materials (B
 ![Hackpad Screenshot](Screenshot%202025-12-11%20161556.png)
 
 ### Case & Assembly
-![Case Screenshot](images/hackpad_case.png)
+![Case Screenshot](Screenshot%202025-12-11%20162226.png)
 
 ---
 
@@ -46,7 +46,7 @@ This README documents the design, schematic, PCB, case, and bill of materials (B
 ---
 
 ## ⚙️ Firmware
-- Written in [KMK Firmware](https://github.com/KMKfw/kmk_firmware)
+- Written in [KMK Firmware](https://github.com/rudra26161/Blueprint---Hackpad/blob/c94d1e2d607d7ab2b1c8bd9e36697b46c6f0982a/Firmware/kmk%20Hackpad)
 - Supports:
   - Matrix scanning
   - Layer switching
