@@ -1,11 +1,10 @@
 # Rudra's Hack Pad!
 
-A custom 15 key macropad built with the XIAO RP2040, rotary encoder, and addressable RGB LEDs.  
-This README documents the design, schematic, PCB, case, and bill of materials (BOM).
+This is a custom hackpad made and designed by me featuring 15 keys and one rotary encoder with 2 led lights. 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Overall Hackpad
 ![Final hackpad](Screenshot%202025-12-11%20212522.png)
@@ -21,35 +20,19 @@ This README documents the design, schematic, PCB, case, and bill of materials (B
 
 ---
 
-## 🛠️ Features
-- 15k key matrix of push-button switches with diodes for isolation
-- Rotary encoder for volume control and layer switching
-- 2 × SK6812MINI addressable RGB LEDs for visual feedback
-- Powered by Seeed Studio XIAO RP2040 microcontroller
-- KMK firmware support with layers, macros, and encoder handling
+##  Bill of Materials (BOM)
+
+
+- 1x XIAO RP2040 controller
+- 15x Mx-switches
+- 16x 1N4148 diodes
+- 1x Rotary encoder with switch
+- 2x SK6812MINI RGB LED
+- 1x Pcb
+- 1X 3d printed case
+- 4x Screws + standoffs for case assembly
 
 ---
 
-## 📦 Bill of Materials (BOM)
-
-| Item | Quantity | Description |
-|------|----------|-------------|
-| XIAO RP2040 | 1 | Microcontroller board |
-| Push-button switches | 16 | Standard MX-style |
-| Diodes (1N4148) | 16 | For matrix isolation |
-| Rotary encoder | 1 | With push-button switch |
-| SK6812MINI RGB LEDs | 2 | Addressable LEDs for feedback |
-| PCB | 1 | Custom-designed Hackpad PCB |
-| Case | 1 | 3D-printed or laser-cut enclosure |
-| Mounting hardware | 4 | Screws + standoffs for case assembly |
-
----
-
-## ⚙️ Firmware
+##  Firmware
 - Written in [KMK Firmware](https://github.com/rudra26161/Blueprint---Hackpad/blob/c94d1e2d607d7ab2b1c8bd9e36697b46c6f0982a/Firmware/kmk%20Hackpad)
-- Supports:
-  - Matrix scanning
-  - Layer switching
-  - Macros
-  - Encoder input
-  - RGB LED feedback
