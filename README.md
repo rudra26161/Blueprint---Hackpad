@@ -36,3 +36,7 @@ This is a custom hackpad made and designed by me featuring 15 keys and one rotar
 
 ##  Firmware
 - Written in [KMK Firmware](https://github.com/rudra26161/Blueprint---Hackpad/blob/c94d1e2d607d7ab2b1c8bd9e36697b46c6f0982a/Firmware/kmk%20Hackpad)
+
+
+## Other
+pray for me that this works
