@@ -8,7 +8,7 @@ This README documents the design, schematic, PCB, case, and bill of materials (B
 ## 📸 Screenshots
 
 ### Overall Hackpad
-![PCB Screenshot](Screenshot%202025-12-11%20161718.png)
+![Final hackpad](Screenshot%202025-12-11%20212522.png)
 
 ### Schematic
 ![Schematic Screenshot](Screenshot%202025-12-11%20161618.png)
