@@ -5,7 +5,7 @@ This is a custom hackpad made and designed by me featuring 15 keys and one rotar
 ---
 
 ##  Screenshots
-###Final hackpad
+### Final hackpad
 ![Final hackpad](IMG_2836.jpg)
 ### Overall Hackpad
 ![Final hackpad](Screenshot%202025-12-11%20212522.png)
